@@ -25,11 +25,18 @@
 
 
 
+### Q&A
+
+for further questions, contact me via wechat. 可以直接加我微信，欢迎前来交流算法竞赛经验。
+![Alt text](./imgs/微信_二维码.jpg)
+
 
 
 **************************** **Updates** ****************************
 
 <!-- Thanks for your interest in our repo! -->
+
+* 2021/11/28: 上传FewShotMultiLabel文章的代码解析. 
 
 * 2021/09/14: 上传AGIF文章的代码解析. 
 
